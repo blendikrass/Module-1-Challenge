@@ -1,7 +1,7 @@
 # coding: utf-8
 import csv
 from pathlib import Path
-
+import fire
 """Part 1: Automate the Calculations.
 
 Automate the calculations for the loan portfolio summaries.
